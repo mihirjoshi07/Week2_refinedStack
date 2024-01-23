@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Week2_refinedStack/static/css/main.e19e8732.css",
+    "main.js": "/Week2_refinedStack/static/js/main.2a2dc9ad.js",
+    "index.html": "/Week2_refinedStack/index.html",
+    "main.e19e8732.css.map": "/Week2_refinedStack/static/css/main.e19e8732.css.map",
+    "main.2a2dc9ad.js.map": "/Week2_refinedStack/static/js/main.2a2dc9ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e19e8732.css",
+    "static/js/main.2a2dc9ad.js"
+  ]
+}
