@@ -17,7 +17,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "lint": "eslint . --format json --output-file eslint-report/eslint-results.json",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

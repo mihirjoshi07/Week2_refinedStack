@@ -1,0 +1,7 @@
+22 January  Monday -  done Header section and balance business logic by the end of the day
+
+23 January Tuesday - Made income expense and add transaction functionality
+
+24 January Wed - completed transaction list and finised all tasks and made presentation document
+
+25 January - Live Presentation
